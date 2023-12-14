@@ -16,11 +16,11 @@ This variable does not take any parameters.
 #### Example Input
 
 ```
-$(customapi.https://decapi.me/youtube/latest_video?id=UCjerlCIbLPQwSnYlClkjDXg)
+$(customapi.https://streamlabs.com/justsaying__1/tip
 ```
 
 #### Example Output
 
 ```
-STREAMELEMENTS PATCH NOTES - SEPTEMBER 10, 2023 #streamelements #updates #patchnotes - https://youtu.be/-q_q37PoaM8
+El Donativo Para Los Ciribillos- https://streamlabs.com/justsaying__1/tip Buena Paga Mi Gente
 ```
